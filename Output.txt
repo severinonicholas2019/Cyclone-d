@@ -1,0 +1,20 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61336:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/Cyclone'd/out/production/Cyclone'd Main
+What is the latitude of the first point?: 48.8567
+What is the Longitutde of the first point?: 2.3508
+What is the latitude of the second point?: 37.78333
+What is the longitude of the second point?: -122.41667
+The Distance from SF to Paris is 8952.399883495635.
+The distance of the cyclone on day 1 was 554.3996803543225.
+The distance of the cyclone on day 2 was 468.49700815412336.
+The distance of the cyclone on day 3 was 331.64597163485803.
+The distance of the cyclone on day 4 was 845.7861488546149.
+The distance of the cyclone on day 5 was 1170.4131281488244.
+The distance of the cyclone on day 6 was 1054.4379707737055.
+The distance of the cyclone on day 7 was 940.6709507348903.
+The distance of the cyclone on day 8 was 598.9286227146907.
+The distance of the cyclone on day 9 was 530.2975666412293.
+The distance of the cyclone on day 10 was 241.14693884556328.
+The distance of the cyclone on day 11 was 222.38985328911707.
+The distance of the cyclone on day 12 was 333.5847799336759.
+The total Distance of the cyclone is 7292.20.
+Process finished with exit code 0
